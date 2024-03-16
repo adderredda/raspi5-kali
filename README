@@ -1,4 +1,5 @@
-A LIST OF SCRIPTS AND WHAT THEY DO
+!A LIST OF SCRIPTS AND WHAT THEY DO!
+
 livedata.py= RPI5 live cpu usage % and sensor data
 
 stress.py= RPI5 cpu stress test at 25,50,75, or 1oo%
