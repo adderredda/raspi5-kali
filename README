@@ -6,4 +6,8 @@ stress.py= RPI5 cpu stress test at 25,50,75, or 1oo%
 
 passcrunch.py= creates every possible password using provides characters and saves to "passwords.txt"
 
+socials.py= searches facebook,instagram, and snapchat for name provided
+
+
+
 
