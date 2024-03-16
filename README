@@ -1,3 +1,4 @@
 A LIST OF SCRIPTS AND WHAT THEY DO
 livedata.py= RPI5 live cpu usage % and sensor data
 stress.py= RPI5 cpu stress test at 25,50,75, or 1oo%
+passcrunch.py= creates every possible password using provides characters and saves to "passwords.txt"
