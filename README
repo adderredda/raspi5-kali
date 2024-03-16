@@ -8,6 +8,10 @@ passcrunch.py= creates every possible password using provides characters and sav
 
 socials.py= searches facebook,instagram, and snapchat for name provided
 
+macsearch.py= searches current network for devices and list them by ip addr and mac addr
+
+
+
 
 
 
