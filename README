@@ -8,8 +8,6 @@ passcrunch.py= creates every possible password using provides characters and sav
 
 socials.py= searches facebook,instagram, and snapchat for name provided
 
-macsearch.py= searches current network for devices and list them by ip addr and mac addr
-
 notes.py= google anything from the script, tell your teacher it goes through your notes to find answer if they ask LOL!
 
 passgen.py= creates randomly generated passwords at the length of your choice
